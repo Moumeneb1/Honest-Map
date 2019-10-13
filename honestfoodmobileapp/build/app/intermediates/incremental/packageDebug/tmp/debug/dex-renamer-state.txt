@@ -1,0 +1,4 @@
+#Sun Oct 13 08:48:31 AST 2019
+base.0=/home/moumene/Best-Flutter-UI-Templates/best_flutter_ui_templates/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
